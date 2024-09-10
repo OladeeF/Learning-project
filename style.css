@@ -1,0 +1,17 @@
+
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: red;
+}
+p{
+    font-weight: 200;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+img{
+    border: 2px solid red;
+    border-radius: 40px;
+    padding: 5px;
+}
